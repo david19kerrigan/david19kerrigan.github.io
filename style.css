@@ -5,3 +5,9 @@ body {
   font-size: 25px;
   font-family: "Open Sans";
 }
+a:link{
+	color:red;
+}
+a:visited{
+	color:red;
+}
