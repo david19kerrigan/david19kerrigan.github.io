@@ -1,24 +1,24 @@
 body {
   padding: 25px;
   background-color: black;
-  color: orange;
-  font-size: 25px;
+  color: salmon;
   font-family: "Source Code Pro";
-  margin: auto;
+  margin-top: 1%;
+  margin-left: 5%;
   width: 80%;
-  font-size:1.5vh;
+  font-size:2vh;
 }
 a{
-	color:orange;
+	color:salmon;
   border-bottom: 2px solid red;
   text-decoration: none
 }
-a:hover {
-	color: orange;
+a:hover{
+  color: salmon;
 }
 img{
   width:20%;
   border-radius: 8px;
-  border: 3px solid orange;
+  border: 3px solid salmon;
   margin: 1%;
 }
