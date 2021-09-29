@@ -8,9 +8,12 @@ body {
   width: 80%;
   font-size:2vh;
 }
-a:link{
-	color:red;
+a{
+	color:orange;
+	text-decoration: none;
 }
-a:visited{
-	color:red;
+a:hover {
+	color: orange;
+	text-decoration: none;
+    border-bottom: 2px solid red;
 }
